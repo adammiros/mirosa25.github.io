@@ -1,0 +1,124 @@
+.jumbotron {
+position: relative;
+background: #000 url("Images/ROBOTICSKIDS.PNG");
+width: 100%;
+height: 100%;
+background-size: cover;
+overflow: hidden;
+margin-top: 0px;
+}
+
+
+.jumbotron .container {
+position: relative;
+top:100px;
+
+}
+
+.jumbotron h1 {
+color: #fff ;
+font-family: 'Lobster', cursive ;
+font-weight: bold;
+text-align: center;
+}
+
+.jumbotron p {
+color: #fff;
+font-family: 'Lobster', cursive;
+font-size: 30px ;
+}
+
+
+
+.extra-information h3 {
+font-family: 'Abel', sans-serif ;
+
+}
+
+.extra-information p {
+margin-bottom: 20px;
+
+}
+
+.MenuButton {
+position:fixed
+top:0;
+left:0;
+width:100%;
+height:50px; /*  Change Me */
+}
+
+.MenuButton button {
+  width: 100%;
+  height: 60px;
+  border-top-right-radius: 0px;
+  border-top-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  margin-bottom: 0px;
+
+}
+
+
+
+
+.VideoContainer {
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+padding-bottom: 20px;
+background-color: #f7f7f7;
+}
+
+
+.VideoContainer h3 {
+  text-align: center;
+  font-family: 'Poiret One';
+}
+
+
+
+.SullyPicContainer {
+
+  margin: auto;
+  text-align: center;
+}
+
+
+#SullyPic {
+  border-radius: 50%;
+
+
+}
+
+
+.Center {
+  text-align: center;
+}
+
+
+.SullyQuestion {
+  font-family: "Poiret One";
+}
+
+.SullyAnswer {
+  font-family: "Poiret One";
+}
+.Video {
+  text-align: center;
+}
+
+.RoboticsArenaHeader {
+font-family: Dosis;
+}
+
+.TeacherContainer {
+
+  border-top: 2px solid black;
+}
+
+#SullyFact {
+  list-style-type:none;
+
+
+}
